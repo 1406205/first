@@ -20,6 +20,10 @@ public class JavaApplication005 {
         // add a comment
         System.out.println("Hello World");
         System.out.println("another line");
+        for(int i = 0; i <= 10; i++)
+        {
+            System.out.println(i);
+        }
     }
     
 }
